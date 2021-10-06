@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  javawebapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-06T19:38:29.364749655Z"
+    description: A Helm chart for Kubernetes
+    digest: bfe9137a75a76b244fbcff4d79cc91400006668d275f978f45e0e9485a6c002f
+    name: javawebapp
+    type: application
+    urls:
+    - https://krishnasoftwaretechno-ec-projects.github.io/helmrepo/javawebapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-06T19:38:29.36386747Z"
